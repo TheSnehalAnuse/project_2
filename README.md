@@ -1,3 +1,3 @@
 # my project 2
 
-This project file is created from local system
+This project file is created from local system.
